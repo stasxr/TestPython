@@ -1,0 +1,1 @@
+CMDS = ['echo "Hello from b.py"', 'pwd']

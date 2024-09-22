@@ -1,0 +1,1 @@
+CMDS = ['echo "This is c.py"', 'echo "Done!"']

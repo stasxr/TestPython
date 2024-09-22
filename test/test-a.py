@@ -1,0 +1,1 @@
+CMDS = ['echo "Hello from a.py"', 'ls']
