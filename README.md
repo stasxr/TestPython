@@ -7,7 +7,7 @@
 **Пример только с файлом test-a:**
 ![Image alt](https://github.com/stasxr/TestPython/blob/main/png/scrin%20test-a.png)
 
-**Пример со всеи файлом test (по условиям):**
+**Пример со всеми файлами test (по условиям):**
 ![Image alt](https://github.com/stasxr/TestPython/blob/main/png/scrin%20test-a-c.png)
 
 
