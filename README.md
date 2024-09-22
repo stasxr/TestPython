@@ -1,6 +1,8 @@
 # TestPython
 **TestPython_CMDs_G**
 
+main файл по условиям ТЗ - BashCMDs.py
+
 
 **Выполнение всех файлов ./test из дериктории, по очереди**
 
